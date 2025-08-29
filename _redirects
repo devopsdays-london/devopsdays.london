@@ -24,6 +24,7 @@
 /2020/tickets https://www.devopsdays.org/events/2020-london/registration/
 /2020/buy https://www.devopsdays.org/events/2020-london/registration/
 /2020 https://www.devopsdays.org/events/2020-london/welcome/
+
 # 2022 redirects
 /2022/program https://www.devopsdays.org/events/2022-london/program
 /2022/programme https://www.devopsdays.org/events/2022-london/program
@@ -35,6 +36,7 @@
 /2022/tickets https://www.devopsdays.org/events/2022-london/registration/
 /2022/buy https://www.devopsdays.org/events/2022-london/registration/
 /2022 https://www.devopsdays.org/events/2022-london/welcome/
+
 # 2023 redirects
 /2023/suggest https://docs.google.com/forms/d/e/1FAIpQLSfG72TMBDc5qJkhEuMdsFwPo2NItNxdu_btM8wRIAerdpdYcQ/viewform
 /2023/openspaces https://docs.google.com/spreadsheets/d/1fGmwfCopTbdO6Hhscgnwe0WzMkwG90KaY7hTHpj4bHw/edit#gid=682789870
@@ -48,7 +50,8 @@
 /2023/tickets https://www.devopsdays.org/events/2023-london/registration/
 /2023/buy https://www.devopsdays.org/events/2023-london/registration/
 /2023 https://www.devopsdays.org/events/2023-london/welcome/
-# 2023 redirects
+
+# 2024 redirects
 /2024/program https://www.devopsdays.org/events/2024-london/program
 /2024/programme https://www.devopsdays.org/events/2024-london/program
 /2024/agenda https://www.devopsdays.org/events/2024-london/program
@@ -60,5 +63,8 @@
 /2024/buy https://ti.to/devopsdays-london/2024
 /2024/sponsor-form https://forms.gle/29pdKcNBgTiWTFYy8
 /2024 https://www.devopsdays.org/events/2024-london/welcome/
+
+# this should link to the latest program/schedule
+/sched https://devopsdays.org/events/2025-london/program
 # this should always be last
 /* https://devopsdays.org/events/2025-london/welcome/
