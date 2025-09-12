@@ -48,7 +48,7 @@
 /2023/tickets https://www.devopsdays.org/events/2023-london/registration/
 /2023/buy https://www.devopsdays.org/events/2023-london/registration/
 /2023 https://www.devopsdays.org/events/2023-london/welcome/
-# 2023 redirects
+# 2024 redirects
 /2024/program https://www.devopsdays.org/events/2024-london/program
 /2024/programme https://www.devopsdays.org/events/2024-london/program
 /2024/agenda https://www.devopsdays.org/events/2024-london/program
@@ -60,5 +60,22 @@
 /2024/buy https://ti.to/devopsdays-london/2024
 /2024/sponsor-form https://forms.gle/29pdKcNBgTiWTFYy8
 /2024 https://www.devopsdays.org/events/2024-london/welcome/
+# 2025 redirects
+/2025/program https://www.devopsdays.org/events/2025-london/program
+/2025/programme https://www.devopsdays.org/events/2025-london/program
+/2025/agenda https://www.devopsdays.org/events/2025-london/program
+/2025/sponsor https://www.devopsdays.org/events/2025-london/sponsor
+/2025/propose https://www.devopsdays.org/events/2025-london/propose
+/2025/cfp https://docs.google.com/forms/d/e/1FAIpQLSdUK4VNyhpfpqhrm8BY7KmAvSNQHIuL49YOabkYDInbnyKD1g/viewform
+/2025/registration/ https://www.devopsdays.org/events/2025-london/registration/
+/2025/tickets https://ti.to/devopsdays-london/2025
+/2025/buy https://ti.to/devopsdays-london/2025
+/2025/sponsor-form https://forms.gle/29pdKcNBgTiWTFYy8
+/2025 https://www.devopsdays.org/events/2025-london/welcome/
+
+#URL for program QR link on badges
+/program https://www.devopsdays.org/events/2025-london/program
+/programme https://www.devopsdays.org/events/2025-london/program
+
 # this should always be last
 /* https://devopsdays.org/events/2025-london/welcome/
