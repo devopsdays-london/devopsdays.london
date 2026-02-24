@@ -73,15 +73,26 @@
 /2025/sponsor-form https://forms.gle/29pdKcNBgTiWTFYy8
 /2025 https://www.devopsdays.org/events/2025-london/welcome/
 
-#URL for program QR link on badges
-/program https://www.devopsdays.org/events/2025-london/program
-/programme https://www.devopsdays.org/events/2025-london/program
-
-# Links link
-/links https://www.devopsdays.org/events/2025-london/links
 # 2026 
 /2026/cfp https://forms.gle/krjNRBcMwU4SHxZ4A
+/2026/program https://www.devopsdays.org/events/2026-london/program
+/2026/programme https://www.devopsdays.org/events/2026-london/program
+/2026/agenda https://www.devopsdays.org/events/2026-london/program
+/2026/sponsor https://www.devopsdays.org/events/2026-london/sponsor
+/2026/propose https://www.devopsdays.org/events/2026-london/propose
+/2026/registration/ https://www.devopsdays.org/events/2026-london/registration/
+/2026/tickets https://ti.to/devopsdays-london/2026
+/2026/buy https://ti.to/devopsdays-london/2026
+#/2026/sponsor-form https://forms.gle/29pdKcNBgTiWTFYy8
+/2026 https://www.devopsdays.org/events/2026-london/welcome/
+#URL for program QR link on badges
+/program https://www.devopsdays.org/events/2026-london/program
+/programme https://www.devopsdays.org/events/2026-london/program
+
+# Links link
+/links https://www.devopsdays.org/events/2026-london/links
+
 # cfp link
 /cfp https://forms.gle/krjNRBcMwU4SHxZ4A
 # this should always be last
-/* https://devopsdays.org/events/2025-london/welcome/
+/* https://devopsdays.org/events/2026-london/welcome/
